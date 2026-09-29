@@ -2,7 +2,7 @@
 
 # Käyttö
 
-Ohjelmaa voi käyttää joko valmiiksi käännetyllä 'päävalikko.exe' tiedostolla
+Ohjelmaa voi käyttää jo valmiiksi käännetyllä 'päävalikko.exe' tiedostolla
 
 1. Käynnistä kansioista 'päävalikko.exe' tiedosto.
 2. Valitse päävalikosta haluamasi toiminto ja seuraa ohjelman ohjeita.
